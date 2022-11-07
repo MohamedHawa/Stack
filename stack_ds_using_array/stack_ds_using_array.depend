@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1665343064 source:d:\test_c_programs\stack_ds_using_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ds.h"
+	"std_types.h"
+
+1665343794 source:d:\test_c_programs\stack_ds_using_array\stack_ds.c
+	"stack_ds.h"
+	<stdio.h>
+	<stdlib.h>
+
+1665343064 d:\test_c_programs\stack_ds_using_array\stack_ds.h
+	"std_types.h"
+
+1665332717 d:\test_c_programs\stack_ds_using_array\std_types.h
+
